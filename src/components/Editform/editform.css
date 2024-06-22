@@ -1,0 +1,44 @@
+.editform{
+    color:white;
+    text-align: center;
+    color: white;
+    }
+    form{
+     margin: 0px;
+     padding: 0px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        background-color: rgb(24, 24, 24);
+       width: 100%;
+      justify-content: center;
+       border-radius: 20px;
+       }
+       
+       
+        input{
+            background-color: rgb(16, 15, 15);
+            color:rgb(243, 239, 239);
+            padding:5px;
+            border: 1px solid rgb(242, 240, 240);
+            border-radius: 10px;
+         
+          
+            border-top: none;
+        }
+      
+       
+       .addbtn{
+        margin-top:2px;
+     
+cursor: pointer;
+text-align: center;
+color: white;
+background-color: rgb(35,35,35);
+       }
+      
+       button{
+        color: white;
+       }
+}
+
